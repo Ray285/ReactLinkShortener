@@ -1,0 +1,10 @@
+.link-form-input, .link-form-submit, .link-form-error {
+    margin-left: 10px;
+}
+
+.table-container {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+}
